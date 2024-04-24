@@ -1,0 +1,60 @@
+Body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: antiquewhite;
+    
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blanchedalmond;
+}
+.font-weight-bold{
+    color: blanchedalmond;
+}
+ 
+h2{
+    text-align: center;
+}
+
+h3{
+    font-weight-bold;
+}
+/*div styles*/
+.common{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position:absolute;
+}
+.top{
+    top: 0px;
+    left: 0px;
+    right: 0px;
+}
+.middle{
+    top: 100px;
+    left: 0px;
+    right: 0px;
+}
+.bottom{
+   position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    z-index: 1;
+    text-align: center;
+    background-color: aliceblue;
+    font-style: italic;
+    font-weight: bold;
+}
+.imgcenter{
+    display: block;
+    margin: auto;
+    border: 5px solid burlywood;
+    width:400px
+}
+.vidcenter{
+    display: block;
+    margin: auto;
+}
+.myimage{
+    Width: 400px; 
+    height: 350px;
+}
